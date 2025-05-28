@@ -41,7 +41,7 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/Cameroon-Developer-Network/people) : <br>
 >   
-> <img width="221" alt="people" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/support/refs/heads/update/images/people.png"> <br>
+> <img width="221" alt="people" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/.github/refs/heads/master/images/people.png"> <br>
 >   
 > 3. Enter your github username in the searchbar: <br>
 >   
@@ -49,7 +49,7 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 >   
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
-> <img width="639" alt="makepublic" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/support/refs/heads/update/images/visibility.png"> <br>
+> <img width="639" alt="makepublic" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/.github/refs/heads/master/images/visibility.png"> <br>
 
 ## 📬 Get in Touch
 
