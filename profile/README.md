@@ -1,4 +1,3 @@
-
 # 🇨🇲 **Cameroon Developer Network**
 
 Welcome to the **Cameroon Developer Network (CDN)** — a collaborative hub for developers, learners, and tech enthusiasts in and beyond Cameroon 🇨🇲.
@@ -37,6 +36,8 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 
 ### How do I set the Organization to Public?
 
+<div style="background-color: white; padding: 20px; border-radius: 8px;">
+
 > 1. Navigate to our community page: https://github.com/Cameroon-Developer-Network
 >   
 > 2. Click on the people header or click [here](https://github.com/orgs/Cameroon-Developer-Network/people) : <br>
@@ -50,6 +51,8 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 > 4. Check if it is `Private` (the default) and set it to `Public`: <br>
 >   
 > <img width="639" alt="makepublic" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/.github/refs/heads/master/images/visibility.png"> <br>
+
+</div>
 
 ## 📬 Get in Touch
 
