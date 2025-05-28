@@ -37,9 +37,9 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 
 ### How do I set the Organization to Public?
 
-> 1. Navigate to our community page: https://github.com/Cameroon_Developer_Network
+> 1. Navigate to our community page: https://github.com/Cameroon-Developer-Network
 >   
-> 2. Click on the people header or click [here](https://github.com/orgs/Cameroon-Developer-Network/people) : <br>
+> 2. Click on the people header or click [here](https://github.com/Cameroon-Developer-Network/.github/issues) : <br>
 >   
 > <img width="221" alt="people" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/.github/refs/heads/master/images/people.png"> <br>
 >   
@@ -53,7 +53,7 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 
 ## 📬 Get in Touch
 
-- 📧 Email: camdev@gmail.com
+- 📧 Email: camdev237@gmail.com
 - 🌐 Website: [Coming Soon]
 - 🗣️ Join our community on Discord/Slack [Coming Soon]
 
