@@ -30,7 +30,7 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 
 ### Steps to join The Cameroon Developer Network Github Organization:
 
-1. Go to the issues tab [here](https://github.com/Cameroon_Developer_Network/support/issues).
+1. Go to the issues tab [here](https://github.com/Cameroon-Developer-Network/.github/issues).
 2. In the Issues Tab and create a new issue.
 3. Select the "Invitation to CDN - Github Organization" and fill in your details.
 4. You'll receive an e-mail invitation to join our org. Make sure you accept it to become a member of our Github Organization.
@@ -39,7 +39,7 @@ The Cameroon Developer Network is a community-driven organization focused on emp
 
 > 1. Navigate to our community page: https://github.com/Cameroon-Developer-Network
 >   
-> 2. Click on the people header or click [here](https://github.com/Cameroon-Developer-Network/.github/issues) : <br>
+> 2. Click on the people header or click [here](https://github.com/orgs/Cameroon-Developer-Network/people) : <br>
 >   
 > <img width="221" alt="people" src="https://raw.githubusercontent.com/Cameroon-Developer-Network/.github/refs/heads/master/images/people.png"> <br>
 >   
